@@ -20,6 +20,12 @@ input {
 	border-style: solid;
 	border-radius: 20px 20px 20px 20px;
 }
+.submit {
+	background-color: ##dbdbdb;
+}
+.submit:hover {
+	background-color: white;
+}
 
 @media only screen and (min-width: 850px){
 h1 {
